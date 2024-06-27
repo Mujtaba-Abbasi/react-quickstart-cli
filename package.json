@@ -7,7 +7,7 @@
     "create-custom-react-project": "create-react-project.js"
   },
   "scripts": {
-    "start": "node ./create-react-project.js"
+    "start": "node ./index.js"
   },
   "type": "module",
   "dependencies": {
